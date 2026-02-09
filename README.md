@@ -10,6 +10,10 @@
 
 ###
 
+<img align="right" height="200" src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/main/naruto.gif" alt="Naruto GIF" />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
@@ -40,11 +44,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" height="30" alt="pandas logo"  />
 </div>
 
-###
 
-<img align="right" height="300" src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/main/naruto.gif" alt="Naruto GIF" />
-
-###
 
 <h5 align="left">💡 This GitHub showcases my academic projects, hands-on practice, and learning experiments as I continue developing my technical skills. I’m actively seeking internship opportunities where I can learn from industry professionals, contribute to projects, and grow as a developer.</h5>
 
