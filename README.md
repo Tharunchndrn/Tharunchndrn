@@ -6,7 +6,7 @@
 
 ###
 
-<img align="right" height="220" src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/main/naruto.gif" alt="Naruto GIF" />
+<img align="right" height="210" src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/main/naruto.gif" alt="Naruto GIF" />
 
 ###
 
