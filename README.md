@@ -10,7 +10,7 @@
 
 ###
 
-<img align="right" height="200" src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/main/naruto.gif" alt="Naruto GIF" />
+<img align="right" height="250" src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/main/naruto.gif" alt="Naruto GIF" />
 
 ###
 
