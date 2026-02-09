@@ -1,8 +1,8 @@
-<h2 align="left">I’m Tharun Chandran | Aspiring AI & ML Intern Aspirant🚀</h3>
+<h1 align="left">I’m Tharun Chandran | Aspiring AI & ML Intern Aspirant🚀</h3>
 
 ###
 
-<h4 align="left">🎓 Computer Science with AI Undergraduate | Second Year</h4>
+<h3 align="left">🎓 Computer Science with AI Undergraduate | Second Year</h4>
 
 ###
 
