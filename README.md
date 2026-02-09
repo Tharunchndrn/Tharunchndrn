@@ -10,7 +10,7 @@
 
 ###
 
-<h6 align="left">🚀 I’m a motivated Computer Science student with a strong interest in Artificial Intelligence 🤖, Machine Learning 📊, and Data Science 📈. I enjoy learning by building projects 🛠️ and experimenting with new technologies 💡 to understand how intelligent systems work in real-world scenarios 🌍.</h6>
+<h5 align="left">🚀 I’m a motivated Computer Science student with a strong interest in Artificial Intelligence 🤖, Machine Learning 📊, and Data Science 📈. I enjoy learning by building projects 🛠️ and experimenting with new technologies 💡 to understand how intelligent systems work in real-world scenarios 🌍.</h6>
 
 ###
 
