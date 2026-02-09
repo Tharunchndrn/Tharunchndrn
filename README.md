@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="left">🎓 Computer Science with AI Undergraduate | Second Year</h4>
+<h2 align="left">🎓 Computer Science with AI Undergraduate | Second Year</h4>
 
 ###
 
