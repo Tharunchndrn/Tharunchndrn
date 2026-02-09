@@ -72,12 +72,12 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/output/snake.svg" alt="Snake animation" />
-
 ###
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=gradient"  />
+<div align="center">
+  <img src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
+
+###
 
 ###
