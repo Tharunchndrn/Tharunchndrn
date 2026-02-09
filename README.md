@@ -72,12 +72,10 @@
 
 <br clear="both">
 
-###
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/output/snake.svg" alt="Snake animation" width="100%" />
 </div>
 
 ###
 
-###
+
