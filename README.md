@@ -42,7 +42,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd3EybW5sNG1tMWcxZnQ3MGk4MG03bWVrc3N5d3hrNHZiOHJmNjFmOSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Fbjk4frbUYM7FScsAi/giphy.gif"  />
+<img align="right" height="200" src="https://raw.githubusercontent.com/tharunchndrn/tharunchndrn/main/naruto.gif" alt="Naruto GIF" />
 
 ###
 
